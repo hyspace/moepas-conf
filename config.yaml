@@ -1,55 +1,55 @@
 config:
   - dmhy: 极影字幕社 YU-NO GB_CN
-    fileNamePatterdisplayName: YU-NO
-    displayName: YU-NO
+    fileNamePatterbangumiName: YU-NO
+    bangumiName: YU-NO
   - dmhy: 满月之战 简日双语
-    fileNamePatterdisplayName: GRANBELM
-    displayName: 满月之战
+    fileNamePatterbangumiName: GRANBELM
+    bangumiName: 满月之战
   - dmhy: LoliHouse 为了女儿，我说不定连魔王都能干掉。
-    fileNamePatterdisplayName: Uchinoko
-    displayName: 为了女儿，我说不定连魔王都能干掉
+    fileNamePatterbangumiName: Uchinoko
+    bangumiName: 为了女儿，我说不定连魔王都能干掉
   - dmhy: MMSUB 异世界超能魔术师
-    fileNamePatterdisplayName: Isekai Cheat Magician
-    displayName: 异世界超能魔术师
+    fileNamePatterbangumiName: Isekai Cheat Magician
+    bangumiName: 异世界超能魔术师
   - dmhy: 喵萌奶茶屋 你遭难了吗 简体
-    fileNamePatterdisplayName: Sounan desu ka
-    displayName: 你遭难了吗
+    fileNamePatterbangumiName: Sounan desu ka
+    bangumiName: 你遭难了吗
   - dmhy: 喵萌奶茶屋 魔术学姐 简体
-    fileNamePatterdisplayName: Tejina Senpai
-    displayName: 魔术学姐
+    fileNamePatterbangumiName: Tejina Senpai
+    bangumiName: 魔术学姐
   - dmhy: 喵萌奶茶屋 平凡职业成就世界最强 简体
-    fileNamePatterdisplayName: Arifureta Shokugyou de Sekai Saikyou
-    displayName: 平凡职业成就世界最强
+    fileNamePatterbangumiName: Arifureta Shokugyou de Sekai Saikyou
+    bangumiName: 平凡职业成就世界最强
   - dmhy: 喵萌奶茶屋 女高中生的无用日常 简体
-    fileNamePatterdisplayName: Joshikousei no Mudazukai
-    displayName: 女高中生的无用日常
+    fileNamePatterbangumiName: Joshikousei no Mudazukai
+    bangumiName: 女高中生的无用日常
   - dmhy: 轻之国度 肌肉少女：哑铃，能举多少公斤？
-    fileNamePatterdisplayName: Dumbbell Nan Kilo Moteru
-    displayName: 肌肉少女：哑铃，能举多少公斤？
+    fileNamePatterbangumiName: Dumbbell Nan Kilo Moteru
+    bangumiName: 肌肉少女：哑铃，能举多少公斤？
   - dmhy: 漫猫 魔王大人
-    fileNamePatterdisplayName: Maou-sama, Retry
-    displayName: 重来吧!魔王大人
+    fileNamePatterbangumiName: Maou-sama, Retry
+    bangumiName: 重来吧!魔王大人
   - dmhy: BYYM 普通攻擊 HEVC
-    fileNamePatterdisplayName: Okaasan
-    displayName: 你妈平砍连击带顺劈
+    fileNamePatterbangumiName: Okaasan
+    bangumiName: 你妈平砍连击带顺劈
   - dmhy: 喵萌奶茶屋 街角魔族 1080p 简体
-    fileNamePatterdisplayName: Machikado Mazoku
-    displayName: 街角魔族
+    fileNamePatterbangumiName: Machikado Mazoku
+    bangumiName: 街角魔族
   - dmhy: MMSUB 某科学的一方通行
-    fileNamePatterdisplayName: Toaru Kagaku no Accelerator
-    displayName: 某科学的一方通行
+    fileNamePatterbangumiName: Toaru Kagaku no Accelerator
+    bangumiName: 某科学的一方通行
   - dmhy: BYYM 在地下城尋求邂逅是否搞錯了什麼 HEVC
-    fileNamePatterdisplayName: DanMachi S2
-    displayName: 地错
+    fileNamePatterbangumiName: DanMachi S2
+    bangumiName: 地错
   - dmhy: 星空字幕组 炎炎消防队 MP4
-    fileNamePatterdisplayName: Fire_Force
-    displayName: 炎炎消防队
+    fileNamePatterbangumiName: Fire_Force
+    bangumiName: 炎炎消防队
   - dmhy: 千夏字幕组 擅长捉弄人的高木同学2 简体
-    fileNamePatterdisplayName: Karakai Jouzu no Takagi-san 2
-    displayName: 擅长捉弄人的高木同学2
+    fileNamePatterbangumiName: Karakai Jouzu no Takagi-san 2
+    bangumiName: 擅长捉弄人的高木同学2
   - dmhy: 动漫国 彼方的阿斯特拉 简体 1080P
-    fileNamePatterdisplayName: Kanata_no_Astra
-    displayName: 彼方的阿斯特拉
+    fileNamePatterbangumiName: Kanata_no_Astra
+    bangumiName: 彼方的阿斯特拉
   - dmhy: BYYM BEM
-    fileNamePatterdisplayName: "[BEM]"
-    displayName: BEM
+    fileNamePatterbangumiName: "[BEM]"
+    bangumiName: BEM
