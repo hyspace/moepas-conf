@@ -1,6 +1,6 @@
 config:
   - dmhy: 极影字幕社 YU-NO GB_CN
-    fileNamePattern: YU-NO
+    fileNamePattern: yu-no
     bangumiName: YU-NO
   - dmhy: 满月之战 简日双语
     fileNamePattern: GRANBELM
