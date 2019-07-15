@@ -14,7 +14,7 @@ config:
   - dmhy: 喵萌奶茶屋 你遭难了吗 简体
     fileNamePattern: Sounan desu ka
     bangumiName: 你遭难了吗
-  - dmhy: 喵萌奶茶屋 魔术学姐 简体
+  - dmhy: 幻樱字幕组 魔术学姐 GB_MP4
     fileNamePattern: Tejina Senpai
     bangumiName: 魔术学姐
   - dmhy: 喵萌奶茶屋 平凡职业成就世界最强 简体
