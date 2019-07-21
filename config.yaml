@@ -53,3 +53,9 @@ config:
   - dmhy: BYYM BEM
     fileNamePattern: "[BEM]"
     bangumiName: BEM
+  - dmhy: 幻櫻 grace note GB_MP4
+    fileNamePattern: "Grace Note"
+    bangumiName: 君主·埃尔梅罗二世事件簿
+  - dmhy: 极影 mix GB 1080P
+    fileNamePattern: "Mix - Meisei Story"
+    bangumiName: MIX
