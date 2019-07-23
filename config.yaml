@@ -50,7 +50,7 @@ config:
   - dmhy: 动漫国 彼方的阿斯特拉 简体 1080P
     fileNamePattern: Kanata_no_Astra
     bangumiName: 彼方的阿斯特拉
-  - dmhy: BYYM BEM
+  - dmhy: BEM MMSUB
     fileNamePattern: "[BEM]"
     bangumiName: BEM
   - dmhy: 幻櫻 grace note GB_MP4
