@@ -51,7 +51,7 @@ config:
     fileNamePattern: Kanata_no_Astra
     bangumiName: 彼方的阿斯特拉
   - dmhy: BEM MMSUB
-    fileNamePattern: "[BEM]"
+    fileNamePattern: BEM
     bangumiName: BEM
   - dmhy: 幻櫻 grace note GB_MP4
     fileNamePattern: "Grace Note"
