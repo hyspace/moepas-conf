@@ -59,3 +59,6 @@ config:
   - dmhy: 极影 mix GB 1080P
     fileNamePattern: "Mix - Meisei Story"
     bangumiName: MIX
+  - dmhy: 极影 在地下城寻求邂逅是否搞错了什么 GB
+    fileNamePattern: Dungeon
+    bangumiName: 地错
